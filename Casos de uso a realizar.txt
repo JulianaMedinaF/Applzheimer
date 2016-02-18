@@ -1,0 +1,15 @@
+Casos de Uso a Realizar:
+
+1. Registrar Usuario
+2. Loguear usuario
+3. Mostrar Perfil
+4. Mostrar chat
+5. Mostrar Actividad
+6. Mostrar Biblioteca de Consejos
+7. Publicar actividad
+8. Enviar sugerencia a la guia
+9. Publicar sugerencia a la guia
+10. Enviar mensaje de chat
+11. Modificar foto perfil
+
+Seleccionar usuario conectado v??
