@@ -1,0 +1,18 @@
+Tecnologia a usar: Android studio
+JSF: El administrador tendra una plataforma web esde la cual podrá administrar las diferentes publicaciones realizadas y publicar novedades o consejos nuevos para la guia
+
+Es posible que halla un cronograma que la aplicacion programará de acuerdo con las necesidades del usuario
+
+Hasta ahora la aplicacion tiene cuatro servicios base: chat, la biblioteca, actividad de los usuarios y un perfil
+
+Framework JEE, JSF, base de datos Oracle wildfly 
+Conector hibernate para las bases e datos
+conexion base de datos sqlite desde el app??? o crear un web service
+
+estandares de programación:
+
+App: 
+Java coding convention
+
+
+
