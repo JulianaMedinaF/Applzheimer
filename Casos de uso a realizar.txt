@@ -3,15 +3,15 @@ Casos de Uso a Realizar:
 1. Registrar Usuario
 2. Loguear usuario
 3. Mostrar Novedades
-4. Mostrar Perfil
-5. Modificar datos de perfil
-6. Publicar actividad
-7. Mostrar sala de chat
-8. Mostrar mensaje privado
-9. Enviar mensaje de chat
-10. Mostrar Tips
-11. Mostrar AutoCuidado
-12. Buscar Consejo
+4. Ampliar Novedad
+5. Mostrar Perfil
+6. Modificar datos de perfil
+7. Publicar actividad
+8. Mostrar sala de chat
+9. Mostrar mensaje privado
+10. Enviar mensaje de chat
+11. Mostrar Tips
+12. Mostrar AutoCuidado
 13. Ampliar Tip
 14. Ampliar Consejo
 15. Añadir Comentario
@@ -19,3 +19,7 @@ Casos de Uso a Realizar:
 17. Añadir Consejo
 18. Borrar Consejo
 19. Editar Consejo
+20. Mostrar sección de alimentación
+21. Mostrar sección de apoyo emocional
+22. Mostrar sección de apoyo psicologico
+23. Mostrar sección de cronograma
